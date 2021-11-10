@@ -1,8 +1,8 @@
-### Olá me chamo Lorena Oliveira, entre e não repare a bagunça👋
+### Olá me chamo Lorena Oliveira👋
 
 
 - 🔭 Atualmente trabalho como analista comercial em uma empresa de consultoria em tecnologia da informação ...
-- 🌱 Estou aprendendo typescript e ReactJS
+- 🌱 Estou aprendendo Dart
 - ⚡ Curiosidades: Tenho 26 anos, sou casada, moro em Brasília, amo viajar e aprender coisas novas.
 
 
