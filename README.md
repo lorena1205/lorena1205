@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho como analista comercial em uma empresa de consultoria em tecnologia da informação ...
-- 🌱 Estou aprendendo Dart
+- 🌱 Estou aprendendo a desenvolver automações com UIPATH
 - ⚡ Curiosidades: Tenho 26 anos, sou casada, moro em Brasília, amo viajar e aprender coisas novas.
 
 
