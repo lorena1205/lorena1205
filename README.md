@@ -1,8 +1,7 @@
 ### Olá me chamo Lorena Oliveira👋
 
-
-- 🔭 Atualmente trabalho como analista comercial em uma empresa de consultoria em tecnologia da informação ...
-- 🌱 Estou aprendendo a desenvolver automações com UIPATH
+- 🌱 Estou fazendo um curso de desenvolvimento fullstack no senai utilizando tecnologias como HTML, CSS, Bootstrap e JavaScript no FrontEnd, e utilizando linguagem C# para o BackEnd.
+- 🌱 Além disso aprendendo a desenvolver automações com Rocketbot
 - ⚡ Curiosidades: Tenho 26 anos, sou casada, moro em Brasília, amo viajar e aprender coisas novas.
 
 
@@ -18,3 +17,10 @@
     <a href="https://www.instagram.com/lorenaoliveiira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lorenaoliveira767@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lorena-muniz-ferreira-825a2013a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  <div>
+    
+  <h2>Certificações</h2>
+
+![rocketbot1](https://user-images.githubusercontent.com/51932176/155319120-e5b08933-e37e-4302-9a44-9764035b8bf6.PNG)
+![rocketbot2](https://user-images.githubusercontent.com/51932176/155318803-94448de6-10a5-49d3-bb10-660922a5100f.PNG)
