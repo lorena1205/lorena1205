@@ -1,8 +1,7 @@
 ### Olá me chamo Lorena Oliveira👋
 
-- 🌱 Estou fazendo um curso de desenvolvimento fullstack no senai utilizando tecnologias como HTML, CSS, Bootstrap e JavaScript no FrontEnd, e utilizando linguagem C# para o BackEnd.
-- 🌱 Além disso aprendendo a desenvolver automações com Rocketbot
-- ⚡ Curiosidades: Tenho 26 anos, sou casada, moro em Brasília, amo viajar e aprender coisas novas.
+- 🌱 Sou formada em análise e desenvolvimento de sistemas, tem um tempinho que estou explorando Laravel e vue, mas o que eu gosto mesmo é de RPA.
+- ⚡ Curiosidades: Tenho 27 anos, sou casada, moro em Brasília, amo viajar e aprender coisas novas.
 
 
 <div align="center">
