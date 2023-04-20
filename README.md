@@ -1,6 +1,6 @@
 ### Olá me chamo Lorena Oliveira👋
 
-- 🌱 Sou formada em análise e desenvolvimento de sistemas, tem um tempinho que estou explorando Laravel e vue, mas o que eu gosto mesmo é de RPA.
+- 🌱 Sou formada em análise e desenvolvimento de sistemas, estou cursando uma pós graduação em desenvolvimento full-stack, tem um tempinho que estou explorando Laravel e vue, mas o que eu gosto mesmo é de RPA.
 - ⚡ Curiosidades: Tenho 27 anos, sou casada, moro em Brasília, amo viajar e aprender coisas novas.
 
 
